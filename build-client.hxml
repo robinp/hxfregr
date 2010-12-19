@@ -1,0 +1,14 @@
+# Leave the appropriate version
+
+-cp src
+-main fregr.client.SimpleClient
+-D network-sandbox
+-swf-version 9
+-swf bin/simple_client_swf9.swf
+
+--next
+-cp src
+-main fregr.client.SimpleClient
+-D network-sandbox
+-swf-version 10
+-swf bin/simple_client_swf10.swf

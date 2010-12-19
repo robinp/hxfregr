@@ -1,0 +1,3 @@
+-cp src
+-main fregr.server.HxFlashRegress
+-neko bin/fregr_server.n
